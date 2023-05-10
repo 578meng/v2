@@ -6,8 +6,11 @@
 - 建议需要翻墙时使用，开启后网络速度会受影响，特别是手机上。
 
 接下来以windows和Android为例，说明用法。
+[Android系统](#android%E7%B3%BB%E7%BB%9F)
+[Windwos系统](#windows%E7%B3%BB%E7%BB%9F)
+[ios系统](#ios%E7%B3%BB%E7%BB%9F)
 
-## 安卓使用
+## Android系统
 使用v2rayNG软件，导入节点，设置跳过证书验证，然后点击连接即可上网。
 
 软件下载地址：[开源下载](https://github.com/2dust/v2rayNG/releases/download/1.8.5/v2rayNG_1.8.5.apk)、[备用下载](https://pc.domainsname.win:2080/download/Android.apk)
@@ -22,7 +25,7 @@ __开启之后屏幕顶部会有VPN提示！！！__
 
 
 
-## windows使用
+## Windows系统
 windows使用的是v2rayN软件，已经有的不用再下载。
 
 下载地址：[开源下载](https://github.com/2dust/v2rayN/releases/download/6.23/v2rayN-With-Core.zip)、[备用下载](https://pc.domainsname.win:2080/download/Windwos.zip)
@@ -32,18 +35,26 @@ windows使用的是v2rayN软件，已经有的不用再下载。
 
 ![image](https://github.com/578meng/v2/assets/33978206/77735f92-36a4-4eee-8d4f-ac4337fbb255)
 
-复制粘贴节点导入到软件中
+- 复制粘贴节点导入到软件中
 
 ![image](https://github.com/578meng/v2/assets/33978206/b40d5f91-a97b-47b4-b004-d42bcf59d092)
 
-选中节点测试速度，如果不是正常数值，则该节点不可上网，需要更换。
+- 选中节点测试速度，如果不是正常数值，则该节点不可上网，需要更换。
 
 ![image](https://github.com/578meng/v2/assets/33978206/84c1d4c3-30ce-4928-833d-eeffb8bb7f14)
 
 
-设置系统代理，右下角图标变为红色即可上网。
+- 设置系统代理，右下角图标变为红色即可上网。
 
 ![image](https://github.com/578meng/v2/assets/33978206/14d2adef-08f8-4ba2-9e3a-6f37f8bd59ef)
 
 
+## ios系统
+复制节点信息，打开Shadowrocket，稍等片刻会自动弹出窗口，如图，点击“添加”，即可添加所有v2ray节点。
+
+![image](https://github.com/578meng/v2/assets/33978206/4c0980a5-04ac-4528-bfc7-cfa623518276)
+
+之后，设置“全局路由”为“配置”，选择节点，进行连接即可。
+
+![image](https://github.com/578meng/v2/assets/33978206/f921f088-37fc-40fd-b1da-7c1503283256)
 
