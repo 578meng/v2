@@ -50,11 +50,20 @@ windows使用的是v2rayN软件，已经有的不用再下载。
 
 
 ## ios系统
+软件使用Shadowrocket，在app store中下载，国内一般搜不到，需要在已购账号中下载。
+- 退出你的app store账号，登录我的，软件下载好之后再切换回去就行。登录时遇到安全验证选择 __其他选项->不升级__
+![93e3213c9411a092efc22fa1b3fbe36](https://github.com/578meng/v2/assets/33978206/3c06bc24-1cf4-467b-b8cc-ad7d39bde0d0)
+
+- 登上之后再已购项目中划到最底下找到Shadowrocket下载安装
+![image](https://github.com/578meng/v2/assets/33978206/f723a092-1142-419a-a91e-d6dfabe7d52c)
+
+
 复制节点信息，打开Shadowrocket，稍等片刻会自动弹出窗口，如图，点击“添加”，即可添加所有v2ray节点。
 
-![image](https://github.com/578meng/v2/assets/33978206/4c0980a5-04ac-4528-bfc7-cfa623518276)
+也可使用左上角扫描二维码导入节点。
+
 
 之后，设置“全局路由”为“配置”，选择节点，进行连接即可。
 
-![image](https://github.com/578meng/v2/assets/33978206/f921f088-37fc-40fd-b1da-7c1503283256)
+
 
